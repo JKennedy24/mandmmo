@@ -13,7 +13,7 @@
     ],
     "target": {
       "namespace": "android_app",
-      "package_name": "com.mandm.kcflutter.mo",
+      "package_name": "com.mandm.mandm.mo",
       "sha256_cert_fingerprints":
         ["9B:F3:A3:43:12:5E:A4:9D:DF:BF:2A:C0:3C:87:45:27:8C:14:09:BA:11:6D:50:02:6C:43:70:08:EA:45:C5:90"]
     }
