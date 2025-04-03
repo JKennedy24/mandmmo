@@ -20,11 +20,6 @@
           },
           {
             "/": "/viewbasket.aspx",
-          },
-          {
-            "/": "*",
-            "exclude": true,
-            "comment": "Exclude all other paths"
           }
         ]
       }
