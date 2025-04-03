@@ -16,10 +16,10 @@
         ],
         "components": [
           {
-            "/": "/",
+            "/": "/"
           },
           {
-            "/": "/viewbasket.aspx",
+            "/": "/viewbasket.aspx"
           }
         ]
       }
