@@ -1,18 +1,16 @@
 {
   "webcredentials": {
     "apps": [
-      "K6U6VLH529.com.sdods.kcflutter.mo",
-      "K6U6VLH529.com.sdods.mandm.dev-push",
-      "K6U6VLH529.com.valtech.mandm.ci"
+      "K6U6VLH529.com.valtech.mandm.ci",
+      "K6U6VLH529.com.valtech.mandm.rc"
     ]
   },
   "applinks": {
     "details": [
       {
         "appIDs": [
-          "K6U6VLH529.com.sdods.kcflutter.mo",
-          "K6U6VLH529.com.sdods.mandm.dev-push",
-          "K6U6VLH529.com.valtech.mandm.ci"
+          "K6U6VLH529.com.valtech.mandm.ci",
+          "K6U6VLH529.com.valtech.mandm.rc"
         ],
         "components": [
           {
