@@ -18,6 +18,9 @@
           },
           {
             "/": "/viewbasket.aspx"
+          },
+          {
+            "/": "/01/details/*"
           }
         ]
       }
