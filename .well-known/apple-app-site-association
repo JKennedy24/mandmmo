@@ -20,7 +20,11 @@
             "/": "/viewbasket.aspx"
           },
           {
-            "/": "/01/*"
+            "/": "/01/details/*"
+          },
+          {
+            "/": "/01/*",
+            "?": { "title": "", "algoliafilters": "" }
           }
         ]
       }
