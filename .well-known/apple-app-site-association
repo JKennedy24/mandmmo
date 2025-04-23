@@ -24,7 +24,7 @@
           },
           {
             "/": "/01/*",
-            "?": { "title": "*", "algoliafilters": "*" }
+            "?": { "title": "?*", "algoliafilters": "?*" }
           }
         ]
       }
