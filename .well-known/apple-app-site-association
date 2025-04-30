@@ -24,7 +24,7 @@
           },
           {
             "/": "/01/*",
-            "?": { "title": "?*", "algoliafilters": "?*" }
+            "_commented_out: ?": { "title": "?*", "algoliafilters": "?*" }
           }
         ]
       }
