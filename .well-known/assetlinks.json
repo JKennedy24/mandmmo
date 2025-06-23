@@ -3,7 +3,7 @@
     "relation": ["delegate_permission/common.get_login_creds"],
     "target": {
       "namespace": "web",
-      "site": "https://samdodskc.github.io"
+      "site": "https://mandmmo.github.io"
     }
   },
   {
