@@ -1,1 +1,1 @@
-# mandmmo.github.io
+# https://jkennedy24.github.io/mandmmo/
