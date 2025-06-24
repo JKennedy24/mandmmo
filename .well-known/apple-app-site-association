@@ -2,7 +2,11 @@
   "webcredentials": {
     "apps": [
       "K6U6VLH529.com.valtech.mandm.ci",
-      "K6U6VLH529.com.valtech.mandm.rc"
+      "K6U6VLH529.com.valtech.mandm.rc",
+      "25QJ7B5H4C.com.mandm.mandm.ci",
+      "25QJ7B5H4C.com.mandm.mandm.rc",
+      "25QJ7B5H4C.com.mandm.mandm.devtest",
+      "25QJ7B5H4C.com.mandm.mandm.stg"
     ]
   },
   "applinks": {
@@ -10,7 +14,11 @@
       {
         "appIDs": [
           "K6U6VLH529.com.valtech.mandm.ci",
-          "K6U6VLH529.com.valtech.mandm.rc"
+          "K6U6VLH529.com.valtech.mandm.rc",
+          "25QJ7B5H4C.com.mandm.mandm.ci",
+          "25QJ7B5H4C.com.mandm.mandm.rc",
+          "25QJ7B5H4C.com.mandm.mandm.devtest",
+          "25QJ7B5H4C.com.mandm.mandm.stg"
         ],
         "components": [
           {
